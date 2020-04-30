@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Egoth\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Egoth\\.nuget\\packages"
+    ]
+  }
+}

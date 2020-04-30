@@ -1,0 +1,13 @@
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.exe
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.deps.json
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.runtimeconfig.json
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.runtimeconfig.dev.json
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.dll
+C:\Users\Egoth\source\repos\Madaras homework\bin\Debug\netcoreapp3.1\Madaras homework.pdb
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.csprojAssemblyReference.cache
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.csproj.CoreCompileInputs.cache
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.AssemblyInfoInputs.cache
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.AssemblyInfo.cs
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.dll
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.pdb
+C:\Users\Egoth\source\repos\Madaras homework\obj\Debug\netcoreapp3.1\Madaras homework.genruntimeconfig.cache
